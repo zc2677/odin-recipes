@@ -1,2 +1,3 @@
 # odin-recipes
-My 2nd github repo!
+<p>My 2nd github repo!</p>
+<p>using new skills to build understanding of html</p>
